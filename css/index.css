@@ -1,0 +1,99 @@
+
+
+.form-signin {
+width: 100%;
+max-width: 330px;
+padding: 15px;
+margin: auto;
+}
+
+.form-signin .checkbox {
+font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+z-index: 2;
+}
+
+.form-signin input[type="email"] {
+margin-bottom: -1px;
+border-bottom-right-radius: 0;
+border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+margin-bottom: 10px;
+border-top-left-radius: 0;
+border-top-right-radius: 0;
+}
+
+.no-post-message {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+.back-btn {
+    left: 95%;
+    position: relative !important;
+    width: 100%;
+}
+
+.text-underlined {
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+
+
+.content {
+    flex: 1;
+}
+
+.text-underlined {
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+
+.back-btn {
+    left: 90%;
+    position: relative !important;
+}
+nav{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+footer{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;  
+}
+
+.footer-59391 {
+    border-top: 1px solid #efefef;
+    background-color: #fff;
+    font-family: "Poppins", sans-serif;
+    padding: 1rem 0 ; }
+
+
+.navbar-brand{
+    font-size: 30px;
+    color: #000;
+    font-weight: 900;
+}
+  
+
+
+.eagle-lake-regular {
+    font-family: "Eagle Lake", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .eagle-lake-regular {
+    font-family: "Eagle Lake", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .fredericka-the-great-regular {
+  font-family: "Fredericka the Great", serif;
+  font-weight: 400;
+  font-style: normal;
+}

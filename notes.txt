@@ -1,0 +1,13 @@
+back button fel not found page w el not found page kolha 
+position el footer 
+3ndna moshkla fel store post 
+In PHP, when working with MySQL databases, it's crucial to prevent SQL injection, a common security vulnerability. Using prepared statements with mysqli is one effective way to achieve this. Here's a breakdown of the terms and their usage:
+
+mysqli_prepare
+The prepare method is part of the mysqli extension in PHP. It prepares an SQL statement template for execution.
+
+mysqli_stmt
+A mysqli_stmt object represents a prepared statement in MySQL. When you call prepare, it returns a mysqli_stmt object which you can then manipulate.
+
+mysqli_stmt::bind_param
+The bind_param method binds variables to the parameter markers in the SQL statement that was passed to prepare. It ensures that the variables are safely inserted into the query.
